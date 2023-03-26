@@ -1,0 +1,205 @@
+img {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.navbar-brand {
+    color: white;
+    margin-left: 90px;
+}
+
+.nav-item {
+    list-style-type: none;
+    float: left;
+    padding: 0 20px;
+
+}
+
+.list {
+    margin-right: 3%;
+}
+
+.list2 {
+    margin-right: 10%;
+}
+
+.item2 {
+    list-style-type: none;
+    float: left;
+}
+
+.cus {
+    padding-top: 7px;
+    padding-right: 20px;
+}
+
+.custom-font {
+    font-weight: 700;
+    color: white;
+    font-family: 'Montserrat';
+}
+
+.custom-font:hover {
+    text-decoration-line: underline;
+    color: black;
+    cursor: pointer;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+.navbar-brand:hover {
+
+    color: black;
+}
+.navbar ,h1{
+    font-family: 'Roboto Slab', serif;
+}
+.context{
+    position: relative;
+    width: 430px;
+    height: 140px;
+    margin-left: 102px;
+    margin-top: 80px;
+    color: white;
+}
+.explore-link{
+    text-decoration: none;
+    color: black;
+    font-family: 'Montserrat';
+ 
+}
+.explore{
+    margin-top:15px;
+}
+.explore-link:hover{
+    color: blue;
+}
+.bar{
+    background-color: white;
+    position: relative;
+    height: 60px;
+    width: 40%;
+    margin-left: 102px;
+    margin-top: 100px;
+    border-top-right-radius: 15px;
+   
+}
+.box{
+    background-color: white;
+    position: absolute;
+    height: 200px;
+    width: 60%;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-left: 102px;
+    font-family: 'Montserrat';
+    
+}
+.one, .two, .three{
+    position: absolute;
+    width: 33.3%;
+    height: 60px;
+    text-align: center;
+    padding-top: 13px;
+    font-family: 'Montserrat';
+  
+}
+.two{
+    margin-left: 33.3%;
+    background-color:	#181818;
+    color: white;
+}
+.three{
+    margin-left: 66.6%;
+    background-color: 	#181818;
+    color: white;
+    border-top-right-radius: 15px;
+}
+.icon{
+    padding-right: 10px;
+}
+.button-custom{
+    margin-left: 80%;
+    margin-top: 15%;
+    position: relative;
+}
+.icon-btn{
+    padding-left: 20px;
+}
+.booking{
+    list-style-type: none;
+}
+.select{
+    float:left;
+    padding-right: 70px;
+}
+
+.tri{
+    padding-left: 10px;
+}
+.ticket1,.ticket2,.departure{
+    height: 70px;
+    width: 180px;
+    background-color: white;
+    position: absolute;
+   border: 1px solid black;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 10px;
+    
+    
+}
+.ticket1,.ticket2,.departure{
+    font-family: 'Roboto Slab', serif;
+}
+span{
+    
+    color: gray;
+    padding-left: 10px;
+}
+h4{
+    font-size: 1rem;
+    margin-left: 10px;
+    text-align: center;
+}
+.ticket2{
+    margin-top: 70px;
+    margin-left: 320px;
+    border-radius: 10px;
+}
+.departure{
+    height: 110px;
+    margin-top: 50px;
+    margin-left: 520px;
+    border-radius: 10px;
+    width: 300px;
+}
+.side1,.side2{
+    width: 150px;
+    position: absolute;
+    height: 110px;
+}
+.side2{
+    margin-left: 150px;
+}
+.fa-calendar{
+    padding-left: 9px;
+}
+.time{
+    margin-top: 10px;
+}
+.pre-nex{
+    text-decoration: none;
+    color: grey;
+    margin-left: 12px;
+    padding-right: 2px;
+    font-size: 14px;
+}
+.pre-nex:hover{
+    color: blue;
+    text-decoration: underline;
+}
